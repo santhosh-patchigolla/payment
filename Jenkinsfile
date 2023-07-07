@@ -1,6 +1,6 @@
 @Library('roboshop-shared-library') _
 
 env.COMPONENT="payment"
-env.COMPONENT="python"
+env.APP_TYPE="python"
 nodejs()
 
