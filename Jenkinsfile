@@ -2,5 +2,8 @@
 
 env.COMPONENT="payment"
 env.APP_TYPE="python"
-nodejs()
+python()
 
+
+
+// payment is Python based component so callinf the python fro the common.groovy
